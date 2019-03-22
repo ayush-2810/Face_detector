@@ -6,4 +6,4 @@ opencv is a python module used for detecting various objects. It is also used fo
 
 In this repo I have used opencv for detecting face itself.  
 
-It uses haarcascade_frontalface_default as a classifier which is used for detecting faces.  
+It uses **haarcascade_frontalface_default** as a classifier which is used for detecting faces.  
