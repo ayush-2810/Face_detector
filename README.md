@@ -1,5 +1,5 @@
 # Face_detector
-This repository uses opencv to detect the face.
+This repository uses opencv to detect the **face**.
 
 
 **opencv** is a python module used for detecting various objects. It is also used for detecting various features of faces like eyes, nose, etc.  
